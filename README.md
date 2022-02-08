@@ -69,9 +69,12 @@ For further information about this dataset please contact Hadi Fanaee-T (hadi.fa
 - It is clear that bike rental becomes more and more popular.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
+- sklearn
 
 ## Contact
 Created by [@txtw001] - feel free to contact me!
